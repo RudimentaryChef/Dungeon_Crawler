@@ -11,4 +11,4 @@ While we worked with Android Studio and Java the main purpose of this project wa
 
 Our project story:
 
-[https://adikrish6824.wixsite.com/adi-krish/blank](url)
+[Project Website](https://adikrish6824.wixsite.com/adi-krish/blank)
